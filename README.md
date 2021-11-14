@@ -22,3 +22,6 @@ There will not be step-by-step instructions provided, however, there are hints i
 Note: You might have to resize the browser to see the entire painting.
 
 If you get stuck during this project, check out the project walk-through video which can be found in the help menu.
+
+## Take a look to the live project here:
+https://bucheli-web-development-bootstrap-course-composition-ll.netlify.app/
